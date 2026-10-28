@@ -17,9 +17,10 @@ background-attachment: fixed;
     padding: 30px;                          
     border-radius: 16px;                    
 }
-.he{
-    text-align: center;
+.ques h2{
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
+
 .ques input[type="text"],
 .ques input[type="email"],
 .ques input[type="date"],
